@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gusfedec
-I'm a backend/frontend developer. I started developing with PHP and 8 years ago I have been developing with Javascript, 
+I'm a backend/frontend developer. I started developing with PHP and I have been developing with Javascript, 
 using frameworks and libraries such as AngularJs, Angular and ReactJs and NodeJs. 
 I seek to adapt to new technologies that must be constantly faced in this environment.
 
