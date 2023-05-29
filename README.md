@@ -8,7 +8,7 @@ I also develop mobile applications using the Ionic framework, allowing me to cre
 
 Throughout my journey, I have kept a close eye on advancements and trends in web and mobile development, attending conferences and participating in training courses. I am always on the lookout for new tools and technologies to enhance my work and deliver innovative solutions to challenges.
 
-With my extensive experience and skills in frontend and backend development, as well as mobile app development with Ionic, I am ready to tackle challenging projects and offer solid and scalable solutions that drive the success of my clients.
+With my experience and skills in frontend and backend development, as well as mobile app development with Ionic, I am ready to tackle challenging projects and offer solid and scalable solutions that drive the success of my clients.
 
 <!-- Soy un apasionado desarrollador con más de 15 años de experiencia en el desarrollo web y móvil. A lo largo de mi carrera, he trabajado con diversas tecnologías y he presenciado la evolución del panorama tecnológico. Tengo amplios conocimientos en el desarrollo frontend utilizando tecnologías como HTML, CSS y JavaScript, incluyendo frameworks populares como React, Angular y AngularJS.
 
@@ -18,7 +18,7 @@ También desarrollo aplicaciones móviles utilizando el framework Ionic, que me 
 
 A lo largo de mi trayectoria, he seguido de cerca los avances y las tendencias en el desarrollo web y móvil, asistiendo a conferencias y participando en cursos de formación. Siempre estoy en busca de nuevas herramientas y tecnologías para mejorar mi trabajo y ofrecer soluciones innovadoras a los desafíos que enfrento.
 
-Con mi amplia experiencia y habilidades en el desarrollo frontend y backend, así como en el desarrollo de aplicaciones móviles con Ionic, estoy preparado para abordar proyectos desafiantes y ofrecer soluciones sólidas y escalables que impulsen el éxito de mis clientes.-->
+Con mi experiencia y habilidades en el desarrollo frontend y backend, así como en el desarrollo de aplicaciones móviles con Ionic, estoy preparado para abordar proyectos desafiantes y ofrecer soluciones sólidas y escalables que impulsen el éxito de mis clientes.-->
 
 
 
